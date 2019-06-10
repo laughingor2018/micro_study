@@ -1,4 +1,4 @@
-#安装go
+### 安装go
 下载最新的go语言包，解压到/usr/local/
 设置环境变量
 GOPATH=项目目录
@@ -9,10 +9,10 @@ GOBIN=项目目录/bin
 
 
 
-###安装micro
-#go get -u -v github.com/micro/micro
-#cd github.com/micro/micro
-#go install
+### 安装micro
+# go get -u -v github.com/micro/micro
+# cd github.com/micro/micro
+# go install
 
 #go get -u -v github.com/micro/go-micro
 
