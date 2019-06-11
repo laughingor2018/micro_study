@@ -77,3 +77,8 @@
 # cd $GOPATH/src/
 
 # go install google.golang.org/grpc
+
+
+# go-micro打包进docker中需要网络编译
+
+## GOOS=linux GOARCH=amd64 go build -tags netgo -o rollingupdate${TAG} main.go
