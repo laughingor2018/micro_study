@@ -82,3 +82,8 @@
 # go-micro打包进docker中需要网络编译
 
 ## GOOS=linux GOARCH=amd64 go build -tags netgo -o rollingupdate${TAG} main.go
+
+
+# 解决微服务打包
+
+## https://studygolang.com/articles/12094?fr=sidebar
