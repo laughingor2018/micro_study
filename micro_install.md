@@ -40,7 +40,7 @@
 ## protoc --version
 
 
-## git -v -u github.com/micro/protoc-gen-micro
+## go get -v -u github.com/micro/protoc-gen-micro
 
 ## cd github.com/micro/protoc-gen-micro
 
