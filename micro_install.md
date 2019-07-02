@@ -46,7 +46,7 @@
 
 ## go install
 
-## go get -u github.com/golang/protobuf/{proto,protoc-gen-go}
+## go get -u -v github.com/golang/protobuf/{proto,protoc-gen-go}
 
 ## cd github.com/golang/protobuf/
 
